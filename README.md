@@ -1,7 +1,8 @@
 ### Olá! Sou Gustavo Oliveira  👋
 
-- 🔭 Hoje trabalho como suporte tecnico
-- 🌱 Estudando Python - Javascript - Node.js - React.js
+- 🔭 Hoje trabalho como Analista de Dados
+- 💻 Programador Python Fullstack
+- 🌱 Estudando Javascript - Node.js 
 - 😄 Pronouns: ele/dele
 
  <div>
