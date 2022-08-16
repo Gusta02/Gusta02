@@ -20,6 +20,7 @@
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gusta-Node" height="30" width="40" src="https://github.com/Gusta02/Gusta02/blob/main/nodejs-original.svg?short_path=d1db89d">
+  
 </div>
   
   ##
