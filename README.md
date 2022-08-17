@@ -58,8 +58,8 @@
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=michblez&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gusta02&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📩 Entre em contato:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mich-florencio/)](https://www.linkedin.com/in/mich-florencio/)
-  [![Gmail Badge](https://img.shields.io/badge/-mflorencio426@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mflorencio426@gmail.com)](mailto:mflorencio426@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gustaoliv/)](https://www.linkedin.com/in/mich-florencio/)
+  [![Gmail Badge](https://img.shields.io/badge/-mflorencio426@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.olivsantos@gmail.com)](mailto:gustavo.olivsantos@gmail.com)
