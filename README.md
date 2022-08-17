@@ -61,5 +61,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Gusta02&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📩 Entre em contato:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gustaoliv/)](https://www.linkedin.com/in/mich-florencio/)
-  [![Gmail Badge](https://img.shields.io/badge/-mflorencio426@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.olivsantos@gmail.com)](mailto:gustavo.olivsantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustaoliv/)](https://www.linkedin.com/in/mich-florencio/)
+  [![Gmail Badge](https://img.shields.io/badge/-gustavo.olivsantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.olivsantos@gmail.com)](mailto:gustavo.olivsantos@gmail.com)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://portifolio-self-mu.vercel.app)](https://portifolio-self-mu.vercel.app)
