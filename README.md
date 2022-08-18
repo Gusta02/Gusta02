@@ -38,7 +38,7 @@
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![image](https://img.shields.io/badge/Nestjs-F24E1E?style=for-the-badge&logo=nestjs&logoColor=white)
+![image](https://img.shields.io/badge/Javascript-F24E1E?style=for-the-badge&logo=javascript&logoColor=white)
 
  
 
