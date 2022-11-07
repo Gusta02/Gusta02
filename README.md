@@ -1,13 +1,13 @@
-# Prazer pessoal, me chamo Gustavo oliveira ^(00)^ 👋
+# Prazer pessoal, me chamo Gustavo oliveira👋
 
 - 📌 Sou de Campinas São Paulo
 - 🎓 Estudande de Análise e desenvolvimento de Sistemas - Centro Universitario Unifavip | Wyden 
 - 🎓 Estudo desenvolvimento de softwares com foco em sistemas web
 - ❤ Sou curioso e apaixonado por tecnologias em geral, em constante processo de aprendizagem. Busco sempre o melhor pessoalmente e profissionalmente.
    no meu tempo livre eu gosto de praticar exercicios físicos, jogar vídeo games, e adquirir conhecimentos em diversas áreas.
-- 💼 Atualmente trabalho no time de Back-end, realizando desenvolvimento e melhorias de sistemas utilizando a linguagem NodeJs e Nestjs. 
+- 💼 Atualmente trabalho no time de Engenharia de dados, realizando desenvolvimento e melhorias nas tratativas e movimentação de dados, utilizando as linguagens Python, Mysql e Nodejs. 
 - 🚀 Meu objetivo profissional: Desenvolvedor Fullstack Senior / Engenheiro de Dados
-- 📊 Meu nivel atual: Desenvolvedor Backend/ Fullstack Pleno
+- 📊 Meu nivel atual: Engenheiro de dados jr/ Fullstack Pleno
 
 ## 📈 GitHub Stats 
 <div >
