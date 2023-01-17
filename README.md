@@ -5,7 +5,7 @@
 - 🎓 Estudo desenvolvimento de softwares com foco em sistemas web
 - ❤ Sou curioso e apaixonado por tecnologias em geral, em constante processo de aprendizagem. Busco sempre o melhor pessoalmente e profissionalmente.
    no meu tempo livre eu gosto de praticar exercicios físicos, jogar vídeo games, e adquirir conhecimentos em diversas áreas.
-- 💼 Atualmente trabalho no time de Engenharia de dados, realizando desenvolvimento e melhorias nas tratativas e movimentação de dados, utilizando as linguagens Python, Mysql e Nodejs. 
+- 💼 Atualmente trabalho no time de Engenharia de dados, realizando desenvolvimento e melhorias nas tratativas e movimentação de dados, utilizando as linguagens Python, Mysql e Nodejs. E Alguns Programas em cloud, como AWS Redshift, AWS S3, AWS Glue 
 - 🚀 Meu objetivo profissional: Desenvolvedor Fullstack Senior / Engenheiro de Dados
 - 📊 Meu nivel atual: Engenheiro de dados jr/ Fullstack Pleno
 
